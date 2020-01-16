@@ -1,6 +1,5 @@
 package com.niulijuan.springbootdemo.demo.controller;
 
-import com.niulijuan.springbootdemo.demo.entity.User;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 
